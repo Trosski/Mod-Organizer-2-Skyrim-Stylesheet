@@ -1,7 +1,7 @@
-# ModOrganizer_Style_Morrowind
-Transparent Style Morrowind Styleheet
+# ModOrganizer_Style_Skyrim
+Transparent Style Skyrim Styleheet
 
-![](https://staticdelivery.nexusmods.com/mods/100/images/49140/49140-1608482185-945676628.png)
+![](https://staticdelivery.nexusmods.com/mods/1704/images/51321/51321-1623985647-1962640828.png)
 
 ## Installation
 
